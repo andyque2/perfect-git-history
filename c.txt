@@ -1,1 +1,2 @@
 add text into c.txt
+add another line
